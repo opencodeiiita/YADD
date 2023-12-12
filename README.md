@@ -1,5 +1,5 @@
 # YADD
-Yet Another DDoS Detector
+
 YADD, aka Yet Another DDoS Detector, is an open-source AI-based DDoS detection system designed to safeguard networks from malicious distributed denial-of-service attacks.
 
 ## Features
