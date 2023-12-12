@@ -40,3 +40,7 @@ Ensure that your dataset adheres to this column structure for consistency.
 
    ```bash
    git clone https://github.com/<your-username>/YADD.git
+
+## Feel free to post questions on the OpenCode Discord Server!
+
+
