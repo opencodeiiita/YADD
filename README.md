@@ -39,6 +39,15 @@ Comment on the issue. In case of no activity on the issue even after 2 days, the
 ## Communication 
 Whether you are working on a new feature or facing a doubt please feel free to ask us on our [discord](https://discord.com/channels/885149696249708635/1182981039564525579) channel. We will be happy to help you out.
 
+## About the Mentor
+
+**Devam Desai**
+
+`DRedDevil04`
+
+*Developer by day, Hacker by night*
+
+
 ## Guidelines 
 Please help us follow the best practice to make it easy for the reviewer as well as the contributor. We want to focus on the code quality more than on managing pull request ethics.
 
