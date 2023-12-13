@@ -32,7 +32,7 @@ Our dataset follows a specific format with the following columns:
 
 Ensure that your dataset adheres to this column structure for consistency.
 
-In case, you have data but with some missing columns, kindly contact the us on the specified Discord Channel(given in Readme.md)
+In case, you have data but with some missing columns, kindly contact us on the specified Discord Channel(given in Readme.md)
 
 Also do checkout the `APA-DDoS-Dataset.csv` for reference.
 
