@@ -1,0 +1,95 @@
+https://drive.google.com/file/d/1k_CIJFl0WSTBSCD8n2aB2G4QHDr5e47b/view?usp=drive_link
+
+This dataset has 2 categories:
+1. BENIGN
+2. NetBIOS
+
+The Labels are as follows:
+1. Unnamed: 0
+2. Flow ID
+3.  Source IP
+4.  Source Port
+5.  Destination IP
+6.  Destination Port
+7.  Protocol
+8.  Timestamp
+9.  Flow Duration
+10.  Total Fwd Packets
+11.  Total Backward Packets
+12. Total Length of Fwd Packets
+13.  Total Length of Bwd Packets
+14.  Fwd Packet Length Max
+15.  Fwd Packet Length Min
+16.  Fwd Packet Length Mean
+17.  Fwd Packet Length Std
+18. Bwd Packet Length Max
+19.  Bwd Packet Length Min
+20.  Bwd Packet Length Mean
+21.  Bwd Packet Length Std
+22. Flow Bytes/s
+23.  Flow Packets/s
+24.  Flow IAT Mean
+25.  Flow IAT Std
+26.  Flow IAT Max
+27.  Flow IAT Min
+28. Fwd IAT Total
+29.  Fwd IAT Mean
+30.  Fwd IAT Std
+31.  Fwd IAT Max
+32.  Fwd IAT Min
+33. Bwd IAT Total
+34.  Bwd IAT Mean
+35.  Bwd IAT Std
+36.  Bwd IAT Max
+37.  Bwd IAT Min
+38. Fwd PSH Flags
+39.  Bwd PSH Flags
+40.  Fwd URG Flags
+41.  Bwd URG Flags
+42.  Fwd Header Length
+43.  Bwd Header Length
+44. Fwd Packets/s
+45.  Bwd Packets/s
+46.  Min Packet Length
+47.  Max Packet Length
+48.  Packet Length Mean
+49.  Packet Length Std
+50.  Packet Length Variance
+51. FIN Flag Count
+52.  SYN Flag Count
+53.  RST Flag Count
+54.  PSH Flag Count
+55.  ACK Flag Count
+56.  URG Flag Count
+57.  CWE Flag Count
+58.  ECE Flag Count
+59.  Down/Up Ratio
+60.  Average Packet Size
+61.  Avg Fwd Segment Size
+62.  Avg Bwd Segment Size
+63.  Fwd Header Length.1
+64. Fwd Avg Bytes/Bulk
+65.  Fwd Avg Packets/Bulk
+66.  Fwd Avg Bulk Rate
+67.  Bwd Avg Bytes/Bulk
+68.  Bwd Avg Packets/Bulk
+69. Bwd Avg Bulk Rate
+70. Subflow Fwd Packets
+71.  Subflow Fwd Bytes
+72.  Subflow Bwd Packets
+73.  Subflow Bwd Bytes
+74. Init_Win_bytes_forward
+75.  Init_Win_bytes_backward
+76.  act_data_pkt_fwd
+77.  min_seg_size_forward
+78. Active Mean
+79.  Active Std
+80.  Active Max
+81.  Active Min
+82. Idle Mean
+83.  Idle Std
+84.  Idle Max
+85.  Idle Min
+86. SimillarHTTP
+87.  Inbound
+88.  Label
